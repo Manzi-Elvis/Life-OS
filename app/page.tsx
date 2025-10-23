@@ -80,7 +80,7 @@ export default function DashboardPage() {
                 <div className="flex items-start justify-between mb-4">
                   <div
                     className={cn(
-                      "w-12 h-12 rounded-xl bg-gradient-to-br flex items-center justify-center",
+                      "w-12 h-12 rounded-xl linear-to-br flex items-center justify-center",
                       stat.color,
                     )}
                   >
