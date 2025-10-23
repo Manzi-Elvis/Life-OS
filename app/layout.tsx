@@ -48,6 +48,3 @@ export default function RootLayout({
     </html>
   )
 }
-export const viewport = {
-  themeColor: "#4a9eff"
-}
