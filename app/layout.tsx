@@ -20,7 +20,7 @@ export const metadata: Metadata = {
     description: "Organize your thoughts, track emotions, and optimize mental performance",
     type: "website",
   },
-  themeColor: "#4a9eff",
+  
   appleWebApp: {
     capable: true,
     statusBarStyle: "black-translucent",
@@ -47,4 +47,7 @@ export default function RootLayout({
       </body>
     </html>
   )
+}
+export const viewport = {
+  themeColor: "#4a9eff"
 }
