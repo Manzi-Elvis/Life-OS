@@ -11,7 +11,7 @@ export const metadata: Metadata = {
   title: "LifeOS - The Operating System for Your Mind",
   description:
     "A mental operating system to organize thoughts, track emotions, and optimize your mental performance. Built by MANZI RURANGIRWA Elvis.",
-  generator: "LifeOS v1.0",
+  generator: "LifeOS",
   authors: [{ name: "MANZI RURANGIRWA Elvis" }],
   keywords: ["mental health", "productivity", "thought mapping", "emotion tracking", "mindfulness"],
   manifest: "/manifest.json",
