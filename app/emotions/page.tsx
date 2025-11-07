@@ -1,5 +1,3 @@
-// Author: MANZI RURANGIRWA Elvis
-
 "use client"
 
 import { Navigation } from "@/components/navigation"
